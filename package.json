@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "eslint"
   },
-    "dependencies": {
+      "dependencies": {
     "@google/generative-ai": "^0.21.0",
     "@supabase/supabase-js": "^2.45.0",
     "next": "15.0.3",
